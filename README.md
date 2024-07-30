@@ -1,2 +1,2 @@
 # MyDesignPattern
-23中设计模式--C#
+23种设计模式--C#
